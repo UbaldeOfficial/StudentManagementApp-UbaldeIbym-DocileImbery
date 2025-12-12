@@ -14,7 +14,7 @@ public class ValidationService {
         Pattern.compile("^\\d{10,15}$");  // Changed: 10-15 digits
     
     private static final Pattern STUDENT_ID_PATTERN = 
-        Pattern.compile("^[A-Za-z]{2,}[A-Za-z0-9]*$");  // Changed: letters then alphanumeric
+    	    Pattern.compile("^\\d{2}[A-Za-z]{2}\\d{5}$", Pattern.CASE_INSENSITIVE); // Changed: letters then alphanumeric
     
     private static final Pattern NAME_PATTERN = 
         Pattern.compile("^[A-Za-z\\s.]{3,100}$");  // Added . and increased length
