@@ -11,13 +11,13 @@ Development of a Java Swing Desktop CRUD Application Using JDBC and OOP Principl
 A comprehensive desktop application for managing student records with full CRUD (Create, Read, Update, Delete) operations. Built using Java Swing for the graphical user interface, JDBC for MySQL database connectivity, and implementing Object-Oriented Programming principles with RegEx data validation.
 
 ## Features
-✅ **Complete CRUD Operations** - Add, View, Update, Delete student records  
-✅ **Data Validation** - RegEx validation for all input fields  
-✅ **Database Integration** - MySQL with JDBC using PreparedStatement  
-✅ **User-Friendly GUI** - Java Swing interface with JTable display  
-✅ **OOP Principles** - Encapsulation, Abstraction, Inheritance, Polymorphism  
-✅ **Error Handling** - Comprehensive exception handling  
-✅ **Input Validation** - Prevents invalid data entry  
+**Complete CRUD Operations** - Add, View, Update, Delete student records  
+**Data Validation** - RegEx validation for all input fields  
+**Database Integration** - MySQL with JDBC using PreparedStatement  
+**User-Friendly GUI** - Java Swing interface with JTable display  
+**OOP Principles** - Encapsulation, Abstraction, Inheritance, Polymorphism  
+**Error Handling** - Comprehensive exception handling  
+**Input Validation** - Prevents invalid data entry  
 
 ## Technologies Used
 - Java 21
